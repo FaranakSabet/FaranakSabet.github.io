@@ -3,11 +3,11 @@ const info = {
     name: "Faranak",
     location: "Redmond, WA",
     zipCode: "98052",
-    qualities: "Student - Developer - Web Developer",
+    qualities: "Full-Stack Web Developer",
     about: {
-        right: "My name is Faranak Sabet and I recieved a degree of Arts and Science from Bellevue colleg and finished most of my classes of Computer Science and Software Engineering at University of Washington. I Loves to learn new tecnologies.",
+        right: "My name is Faranak Sabet and I recieved my degree of Associate in Arts and Science from Bellevue college and transfered to University of Washington where I finished most of my classes in Computer Science and Software Engineering but unfortunately due to some obstacles in my life I couldn't finish my degree.",
 
-        left: " I am in process of becoming a full-stack web develop through the University of Washington Coding Bootcamp. I am eager to pursue a new career in tech industry in near future."
+        left: " Now, I am a Full-Stack Web Developer applying my previous knowledge, aiming for a position as a Front-End or Back-End Developer. Certified through University of Wasnhington Bootcamp. My language of choice is JavaScript and I am skilled in React, Nodejs, Express and MongoDB. I am eager to pursue a new career in tech industry in near future."
     },
     footerMessage: "Thanks for visiting my website",
     resumeFile: "resume.pdf",
