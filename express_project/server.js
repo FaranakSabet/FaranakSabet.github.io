@@ -12,8 +12,7 @@ app.engine('.hbs', exphbs({ extname: '.hbs' }))
 app.set('view engine', '.hbs')
 
 // public dir
-app.use(express.static(__dirname + '/public'))
-
+app.use(express.static(__dirname + 'public'))
 
 // ROUTES
 app.get('/', (req, res) => {

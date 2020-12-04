@@ -1,12 +1,13 @@
 const info = {
     navbarTitle: "Faranak Sabet",
     name: "Faranak",
-    location: "Somewhere, TX",
-    zipCode: "00280",
+    location: "Redmond, WA",
+    zipCode: "98052",
     qualities: "Student - Developer - Web Developer",
     about: {
-        right: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        left: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        right: "My name is Faranak Sabet and I recieved a degree of Arts and Science from Bellevue colleg and finished most of my classes of Computer Science and Software Engineering at University of Washington. I Loves to learn new tecnologies.",
+
+        left: " I am in process of becoming a full-stack web develop through the University of Washington Coding Bootcamp. I am eager to pursue a new career in tech industry in near future."
     },
     footerMessage: "Thanks for visiting my website",
     resumeFile: "resume.pdf",
